@@ -1,0 +1,14 @@
+body{
+font-family: 'Roboto', sans-serif;
+}
+
+
+
+.herodiv{
+    background-image: url(../images/goat.avif);
+
+    height: 500px;
+    width: 100%;
+
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.title{
+    color: brown;
+}
+.sect{
+    text-align: center;
+}
+
+
+img{
+    width: 600px;
+    height: 400px;
+}

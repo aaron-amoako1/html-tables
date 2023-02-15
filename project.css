@@ -1,0 +1,15 @@
+body{
+
+
+}
+
+.hero{
+    background-image: url(./images/goat.avif);
+}
+
+.header{
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    color: white;
+}

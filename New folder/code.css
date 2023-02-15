@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+th, td{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+
+}
+
+
+table{
+    border: 1px solid #dddddd;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+
+tr:nth-child(even){
+    background-color: #dddddd;
+}
